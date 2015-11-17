@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+	"illuminate/database": "*",
+	"plivo/plivo-php": "dev-master"
+    },
+    "autoload": {
+	"files": [ "app/config.php" ],
+	"classmap": [ "app/models" ]	
+    }
+}
