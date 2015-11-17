@@ -22,5 +22,5 @@ $capsule->bootEloquent();
 date_default_timezone_set('UTC');
 
 // Plivo
-$plivo_auth_id = '';
-$plivo_auth_token = '';
+define('PLIVO_AUTH_ID', '');
+define('PLIVO_AUTH_TOKEN', '');
