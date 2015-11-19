@@ -24,3 +24,6 @@ date_default_timezone_set('UTC');
 // Plivo
 define('PLIVO_AUTH_ID', '');
 define('PLIVO_AUTH_TOKEN', '');
+
+// URL or IP
+define('URL', '');
